@@ -1,0 +1,9 @@
+.techniques {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 80%;
+  align-items: center;
+  margin: 0 auto;
+}
